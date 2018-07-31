@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list id="ee9ffcb7-9dd7-499a-9def-333d2748a66b" name="New changelist" comment="" />
     <list default="true" id="0d4a524f-4e51-477d-bba1-bb98d60cceed" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lazy_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/lazy_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lazy_sort_submissionTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lazy_sort_submissiontxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lazy_sort_submission.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lazy_sort_submission.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/2015_Round_2_Lazy_Sort$lazy_sort.coverage" NAME="lazy_sort Coverage Results" MODIFIED="1533080618826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2015_Round_2_Lazy_Sort$lazy_sort.coverage" NAME="lazy_sort Coverage Results" MODIFIED="1533080774874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="2015 Round 2 Lazy Sort" />
@@ -27,8 +25,8 @@
       <file leaf-file-name="lazy_sort.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lazy_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+            <state relative-caret-position="468">
+              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -195,8 +193,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lazy_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+        <state relative-caret-position="468">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
         </state>
       </provider>
     </entry>

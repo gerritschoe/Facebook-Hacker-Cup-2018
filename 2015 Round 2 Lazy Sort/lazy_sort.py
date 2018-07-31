@@ -1,9 +1,9 @@
 # Written by Gerrit Schoettler, 2018
 
-f = open("lazy_sort_sample_input.txt", 'r')
-output = open("lazy_sort_sample_submissionTest.txt", 'w')
-#f = open("lazy_sort.txt", 'r')
-#output = open("lazy_sort_submission.txt", 'w')
+#f = open("lazy_sort_sample_input.txt", 'r')
+#output = open("lazy_sort_sample_submissionTest.txt", 'w')
+f = open("lazy_sort.txt", 'r')
+output = open("lazy_sort_submission.txt", 'w')
 input = f.readline
 
 for cnum in range(1, int(input()) + 1):
@@ -20,7 +20,7 @@ for cnum in range(1, int(input()) + 1):
         B = b[0]
 
         for i in range(n-1):
-            print('i = ', i,'a = ', a,'A = ', A, 'B = ', B)
+            #print('i = ', i,'a = ', a,'A = ', A, 'B = ', B)
             if int(a[0]) == A + 1:
                 A = A +1
                 a.pop(0)
