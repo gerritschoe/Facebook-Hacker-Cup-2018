@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0d4a524f-4e51-477d-bba1-bb98d60cceed" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Round 2 Problem 1/Template_all_critical.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Round 2 Problem 1/ethan_finds_the_shortest_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Round 2 Problem 1/ethan_finds_the_shortest_path.py" afterDir="false" />
     </list>
-    <list id="a0fe3286-c296-4ab5-a96d-ac71a544fcf4" name="lazy sort all correct" comment="" />
     <list id="ee9ffcb7-9dd7-499a-9def-333d2748a66b" name="New changelist" comment="" />
+    <list id="a0fe3286-c296-4ab5-a96d-ac71a544fcf4" name="lazy sort all correct" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +19,7 @@
     <SUITE FILE_PATH="coverage/2015_Round_2_Lazy_Sort$carnival_coins.coverage" NAME="carnival_coins Coverage Results" MODIFIED="1533403596798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../2016 Round 2 Carnival Coins" />
     <SUITE FILE_PATH="coverage/2015_Round_2_Lazy_Sort$lazy_sort.coverage" NAME="lazy_sort Coverage Results" MODIFIED="1533327983685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2015_Round_2_Lazy_Sort$boomerang_decoration.coverage" NAME="boomerang_decoration Coverage Results" MODIFIED="1533334747431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../2016 Round 2 Boomarang Decoration" />
-    <SUITE FILE_PATH="coverage/2015_Round_2_Lazy_Sort$ethan_finds_the_shortest_path.coverage" NAME="ethan_finds_the_shortest_path Coverage Results" MODIFIED="1533404463199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Round 2 Problem 1" />
+    <SUITE FILE_PATH="coverage/2015_Round_2_Lazy_Sort$ethan_finds_the_shortest_path.coverage" NAME="ethan_finds_the_shortest_path Coverage Results" MODIFIED="1533406222543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Round 2 Problem 1" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="2015 Round 2 Lazy Sort" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="ethan_finds_the_shortest_path.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Round 2 Problem 1/ethan_finds_the_shortest_path.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="253">
+              <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -242,7 +242,7 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5006196" side_tool="true" weight="0.1337953" />
       <window_info id="Favorites" order="2" sideWeight="0.5006196" side_tool="true" weight="0.1337953" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.39980733" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.3988604" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -315,7 +315,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -371,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Round 2 Problem 1/ethan_finds_the_shortest_path.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="253">
+          <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
         </state>
       </provider>
     </entry>
