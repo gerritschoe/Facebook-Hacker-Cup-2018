@@ -1,7 +1,7 @@
 # Written by Gerrit Schoettler, 2018
 
-f = open("ethan_finds_the_shortest_path_sample_input.txt", 'r')
-output = open("TEST_ethan_finds_the_shortest_path_sample_output.txt", 'w')
+f = open("ethan_finds_the_shortest_path.txt", 'r')
+output = open("ethan_finds_the_shortest_path_SUBMISSION.txt", 'w')
 input = f.readline
 ans = 1
 for cnum in range(1, int(input()) + 1):
