@@ -62,10 +62,34 @@ for cnum in range(1, int(input()) + 1):
     for i in range(M):
         KidsSubtrees[i] = Subtrees[C[i]]
     print('KidsSubtrees = ', KidsSubtrees)
-    print('maxKidsSubtrees = ', max(KidsSubtrees[0]))
-    #for i in range(M):
+    #print('maxKidsSubtrees = ', max(KidsSubtrees[0]))
+    lengths = []
+    for i in range(M):
+        lengths.append(len(KidsSubtrees[i]))
+    #print('lengths = ', lengths)
+    Sum = 0
+    alreadyUsed = []
+    for i in range(N):
+        if i in lengths:
+            indices = [j for j, x in enumerate(lengths) if x == i]
+            #print('indices = ', indices)
+            a = [KidsSubtrees[i] for i in indices]
+            for j in range(len(a)-1):
+                c = a[j]
+                used = True
+                while used == True:
+                    print('c, j ', c, j)
+                    b = max(c)
+                    if b in alreadyUsed:
+                        c.remove(b)
+                    else:
+                        alreadyUsed.append(b)
+                        Sum = Sum + int(b)
+                        used = False
 
-    ans = 1
+
+    ans = Sum
+    print("Case #%d: %d" % (cnum, ans))
     print("Case #%d: %d" % (cnum, ans), file=output)
 
 f.close()
