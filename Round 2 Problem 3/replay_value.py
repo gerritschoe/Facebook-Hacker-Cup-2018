@@ -13,5 +13,9 @@ for cnum in range(1, int(input()) + 1):
 
 f.close()
 output.close()
+
+
+a = 1
+print(a)
 print('Input file closed:', f.closed)
 print('Output file closed:', output.closed)
